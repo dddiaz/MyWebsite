@@ -1,0 +1,9 @@
+Personal Notes.txt
+
+Needed to install mongo db
+mongod --dbpath /Users/danieldiaz/github/mywebsite/data/db
+then ran mongod
+
+to run website
+nodemon app.js
+http://localhost:3000
